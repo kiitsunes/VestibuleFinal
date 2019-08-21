@@ -1,5 +1,4 @@
-# TechHire
-_My final project from the vestibule_
+# Vestibule
 
 Terminal games and Choose Your Own Adventure games have a special place in my heart. I actually didn’t play too many of these when I was younger, and I totally lost out, because this is one hundred percent my thing. Story? Code? Weird puzzles? Count me in.
 
